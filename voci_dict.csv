@@ -1,0 +1,886 @@
+schwedisch,deutsch,chapter,checkword,erfolg
+du (subjektspronomen),du (Subjektpronomen),1_1,du,0
+"kunna (kan, kunde, kunnat) ",können,1_1,kunna,0
+svenska (-n),Schwedisch,1_1,svenska,0
+"kombinera (-r, -de, -t)  ",kombinieren,1_1,kombinera,0
+"foto (-t, -n, -na) ",Foto,1_1,foto,0
+och ,und,1_1,och,0
+"ord (-et, =, -en) ",Wort,1_1,ord,0
+"hamburgare (-n, =, hamburgarna) ",Hamburger,1_1,hamburgare,0
+"advokat (-en, -er, -erna) ",Anwalt/Anwältin,1_1,advokat,0
+"potatis (-en, -ar, -arna)  ",Kartoffel,1_1,potatis,0
+"mobil (-en, -er, -erna) ",Handy,1_1,mobil,0
+"papper (-et, =, -en) ",Papier,1_1,papper,0
+"kaffe (-t, -) ",Kaffee,1_1,kaffe,0
+"bok (-en, böcker, böckerna)  ",Buch,1_1,bok,0
+"kanelbulle (-n, -bullar, -bullarna) ",Zimtschnecke,1_1,kanelbulle,0
+"penna (-n, -or, -orna)  ",Stift,1_1,penna,0
+"vatten (vattnet, =, vattnen) ",Wasser,1_1,vatten,0
+"lång (-t, -a) ",lang,1_1,lang,0
+eller  ,oder,1_1,eller,0
+"exempel (exemplet, =, exemplen)  ",Beispiel,1_1,exempel,0
+till exempel (t.ex.),zum Beispiel (z.B.),1_1,till exempel,0
+på kurs,im Kurs,1_2,pa kurs,0
+"kurs (-en, -er, -erna) ",Kurs,1_2,kurs,0
+Hej! ,Hallo!,1_2,Hej!,0
+jag (subjektspronomen),ich (Subjektpronomen),1_2,jag,0
+"heta (heter, hette, hetat) ",heissen,1_2,heta,0
+varifrån ,"woher, von wo",1_2,varifran,0
+"komma (kommer, kom, kommit) ",kommen,1_2,komma,0
+från ,"aus, von",1_2,fran,0
+Australien,Australien,1_2,Australien,0
+Och du?,Und du?,1_2,Och du?,0
+Spanien,Spanien,1_2,Spanien,0
+nej ,nein,1_2,nej,0
+Argentina,Argentinien,1_2,Argentina,0
+jaha,"aha, ach so, ah",1_2,jaha,0
+Vad talar du för språk? ,Was sprichst du für Sprachen?,1_2,Vad talar du för sprak?,0
+vad ... för ,was … für,1_2,vad ... för,0
+"tala (-r, -de, -t) ","sprechen, reden",1_2,tala,0
+"språk (-et, =, -en) ",Sprache,1_2,sprak,0
+engelska (-n),Englisch,1_2,engelska,0
+lite,ein bisschen,1_2,lite,0
+spanska (-n),Spanisch,1_2,spanska,0
+såklart ,"natürlich, selbstverständlich",1_2,saklart,0
+Vad bra!,(Wie) schön! (Wie) toll! / Super! (wörtlich: Wie gut!),1_2,Vad bra!,0
+bra (unveränderlich),gut,1_2,bra,0
+Vad heter du?  ,Wie heisst du?,1_2,Vad heter du?,0
+vad ,was,1_2,vad,0
+Tyskland,Deutschland,1_2,Tyskland,0
+Italien,Italien,1_2,Italien,0
+"vara (är, var, varit) ",sein,1_2,vara,0
+var ,wo,1_2,var,0
+"ligga (ligger, låg, legat) ",liegen,1_2,ligga,0
+det (subjekt- och objektpronomen),"es, das (Subjekt- und Objektpronomen)",1_2,det,0
+i norra [Italien],"im nördlichen [Italien], in Nord[italien]",1_2,i norra [Italien],0
+"prata (-r, -de, -t) ",reden,1_2,prata,0
+pyttelite ,ein kleines bisschen,1_2,pyttelite,0
+italienska (-n),Italienisch,1_2,italienska,0
+Vad kul! ,"(Wie) schön!, (Wie) toll!",1_2,Vad kul!,0
+kul (unveränderlich),"schön, lustig, nett",1_2,kul,0
+Du då?,Und du? (Wörtlich: Du denn?),1_2,Du da?,0
+"presentera (-r, -de, -t)",vorstellen,1_2,presentera,0
+varandra ,einander,1_2,varandra,0
+han (subjektspronomen),er (Subjektpronomen),1_2,han,0
+hon (subjektspronomen),sie (Sg.) (Subjektpronomen),1_2,hon,0
+den (subjekts- och objektspronomen),"es, das (Subjekt- und Objektpronomen)",1_2,den,0
+vi (subjektspronomen),wir (Subjektpronomen),1_2,vi,0
+ni (subjektspronomen),ihr (Subjektpronomen),1_2,ni,0
+de (subjektspronomen),sie (Pl.) (Subjektpronomen),1_2,de,0
+"arbeta (-r, -de, -t) ",arbeiten,1_3,arbeta,0
+här,hier,1_3,här,0
+"bild (-en, -er, -erna)",Bild,1_3,bild,0
+"ingenjör (-en, -er, -erna) ",Ingenieur/in,1_3,ingenjör,0
+"läkare (-n, =, läkarna) ",Arzt/Ärztin,1_3,läkare,0
+"tandläkare (-n, =, tandläkarna)  ",Zahnarzt/Zahnärztin,1_3,tandläkare,0
+"sjuksköterska (-n, -or, -orna)  ",Krankenschwester/Krankenpfleger,1_3,sjuksköterska,0
+"busschaufför (-en, -er, -erna) ",Busfahrer/in,1_3,busschaufför,0
+"frisör (-en, -er, -erna)  ",Coiffeur/Coiffeuse,1_3,frisör,0
+"webbdesigner (-n, =, -na) ",Webdesigner/in,1_3,webbdesigner,0
+"fotograf (-en, -er, -erna)  ",Fotograf/in,1_3,fotograf,0
+"lärare (-n, =, lärarna) ",Lehrer/in,1_3,lärare,0
+"servitör (-en, -er, -erna)  ",Kellner,1_3,servitör,0
+"servitris (-en, -er, -erna)",Kellnerin,1_3,servitris,0
+"kock (-en, -ar, -arna) ",Koch/Köchin,1_3,kock,0
+inte,nicht,1_3,inte,0
+nähä ,"ah nicht, ach so, aha",1_3,nähä,0
+"göra (gör, gjorde, gjort)  ",machen,1_3,göra,0
+[Vad gör du] då?  ,[Was machst du] denn?,1_3,[Vad gör du] da?,0
+"plugga (-r, -de, -t) ","studieren, büffeln",1_3,plugga,0
+"studera (-r, -de, -t) ",studieren,1_3,studera,0
+"design (-en, -er, -erna) ",Design,1_3,design,0
+"pensionär (-en, -er, -erna) ",Rentner/in,1_3,pensionär,0
+"jobba (-r, -de, -t)  ",arbeiten,1_3,jobba,0
+ja ,ja,1_3,ja,0
+med ,mit,1_3,med,0
+"barn (-et, =, -en) ",Kind,1_3,barn,0
+nu,"jetzt, nun",1_3,nu,0
+"förskola (-n, -or, -orna) ",Kindergarten,1_3,förskola,0
+"söka (-er, -te, -t) jobb",eine Arbeit/einen Job suchen,1_3,söka jobb,0
+"söka (-er, -te, -t) ",suchen,1_3,söka,0
+"jobb (-et, =, -en) ","Job, Arbeit",1_3,jobb,0
+på restaurang,in einem/in ein Restaurant,1_3,pa restaurang,0
+"restaurang (-en, -er, -erna) ",Restaurant,1_3,restaurang,0
+Lycka till!,Viel Glück!,1_3,Lycka till!,0
+"fråga (-r, -de, -t)",fragen,1_3,fraga,0
+"svara (-r, -de, -t)",antworten,1_3,svara,0
+"jobba (-r, -de, -t) på [en bank]",auf [einer Bank] arbeiten,1_3,jobba pa [en bank],0
+"IT-företag (-et, =, -en) ",IT-Unternehmen,1_3,IT-företag,0
+"bank (-en, -er, -erna) ",Bank,1_3,bank,0
+Vad arbetar/jobbar du med?,Was arbeitest du?,1_3,Vad arbetar/jobbar du med?,0
+"jobba (-r, -de, -t) med [barn]",mit [Kindern] arbeiten,1_3,jobba med [barn],0
+"yrke (-t, -n, -na) ",Beruf,1_3,yrke,0
+"ekonomi (-n, -er, -erna) ",Wirtschaft,1_3,ekonomi,0
+"programmerare (-n, =, programmerarna) ",Programmierer/in,1_3,programmerare,0
+"ekonom (-en, -er, -erna) ","Betriebswirt/in, Volkswirt/in",1_3,ekonom,0
+"förskolelärare (-n, =, förskolelärarna)  ",Kindergärtner/in,1_3,förskolelärare,0
+"programmering (-en, -ar, -arna) ",Programmierung,1_3,programmering,0
+"läsa (-er, -te, -t) ",lesen; hier: studieren,1_3,läsa,0
+"studera (-r, -de, -t) till",studieren um ... zu werden (wörtlich: studieren zum/zur …),1_3,studera till,0
+"höra (hör, hörde, hört) ",hören,1_3,höra,0
+"kryssa (-r, -de, -t) för ",ankreuzen,1_3,kryssa för,0
+"rätt (=, -a) ","richtig, recht",1_3,rätt,0
+"alternativ (-et, =, -en)",Alternative,1_3,alternativ,0
+"polis (-en, -er, -erna) ","Polizei, Polizist/in",1_3,polis,0
+"biolog (-en, -er, -erna) ",Biologe/Biologin,1_3,biolog,0
+"kemist (-en, -er, -erna) ",Chemiker/in,1_3,kemist,0
+"gift (=, -a) ",verheiratet,1_4,gift,0
+"sambo (-n, -r, -rna) ",Lebensgefährte/Lebensgefährtin (wörtlich: Zusammenwohnende/r),1_4,sambo,0
+"singel (-n, singlar, singlarna)",Single,1_4,singel,0
+"min (mitt, -a) (possessivt pronomen)","mein, meiner, meines, meine (Possessivpronomen)",1_4,min,0
+"man (-nen, män, männen) ","Mann, Ehemann",1_4,man,0
+"schweizare (-n, =, schweizarna) ",Schweizer,1_4,schweizare,0
+men ,aber,1_4,men,0
+"ha (har, hade, haft)",haben,1_4,ha,0
+två ,zwei,1_4,tva,0
+en ,"ein, einer, eines, eine",1_4,en,0
+"son (-en, söner, sönerna)  ",Sohn,1_4,son,0
+"dotter (-n, döttrar, döttrarna) ",Tochter,1_4,dotter,0
+"svensk (-t, -a) ",schwedisch,1_4,svensk,0
+också ,auch,1_4,ocksa,0
+"flickvän (-nen, -ner, -nerna)  ",Freundin (Liebesbeziehung),1_4,flickvän,0
+"bo (-r, -dde, -tt) ihop",zusammen wohnen,1_4,bo ihop,0
+"bo (-r, -dde, -tt) ",wohnen,1_4,bo,0
+ihop ,zusammen,1_4,ihop,0
+i [USA],in [den USA],1_4,i [USA],0
+Det är toppen!,Das ist spitze!,1_4,Det är toppen!,0
+"gifta (-er, -te, -t) sig",heiraten,1_4,gifta sig,0
+"par (-et, =, -en)  ",Paar,1_4,par,0
+Sverige ,Schweden,1_4,Sverige,0
+"skilja (-er, skilde, skilt) sig",sich scheiden lassen,1_4,skilja sig,0
+samma,"derselbe, dieselbe, dasselbe",1_4,samma,0
+"år (-et, =, -en) ",Jahr,1_4,ar,0
+"kvinna (-n, -or, -orna) ",Frau,1_4,kvinna,0
+sedan [2009],seit [2009],1_4,sedan [2009],0
+"skild (skilt, skilda) ",geschieden,1_4,skild,0
+"separerad (separerat, separerade) ",getrennt,1_4,separerad,0
+"tjej (-en, -er, -erna) ","Mädchen, (junge) Frau, Freundin (Liebesbeziehung)",1_4,tjej,0
+"pojkvän (-nen, -ner, -nerna) ",Freund (Liebesbeziehung),1_4,pojkvän,0
+"kille (-n, killar, killarna)","Junge, (junger) Mann, Typ, Freund (Liebesbeziehung)",1_4,kille,0
+"fru (-n, -ar, -arna) ",Ehefrau,1_4,fru,0
+"pojke (-n, pojkar, pojkarna) ",Junge,1_4,pojke,0
+"flicka (-n, -or, orna) ",Mädchen,1_4,flicka,0
+"bonusbarn (-et, =, -en) ",Stiefkind (wörtlich: Bonuskind),1_4,bonusbarn,0
+"tala (-r, -de, -t) om","reden über, sich unterhalten über",1_4,tala om,0
+"familj (-en, -er, -erna) ",Familie,1_4,familj,0
+"skriva (skriver, skrev, skrivit) [om]",schreiben [über/von],1_4,skriva [om],0
+"text (-en, -er, -erna)",Text,1_4,text,0
+"person (-en, -er, -erna)",Person,1_4,person,0
+på fotot,auf dem Foto,1_4,pa fotot,0
+"stryka (stryker, strök, strukit) under ",unterstreichen,1_4,stryka under,0
+alla,alle,1_4,alla,0
+England,England,1_4,England,0
+på universitetet,an der Universität,1_4,pa universitetet,0
+"universitet (-et, =, -en) ",Universität,1_4,universitet,0
+"jobba (-r, -de, -t) extra ",nebenbei arbeiten (im besonderen: neben dem Studium),1_4,jobba extra,0
+nära ,"nahe, in der Nähe",1_4,nära,0
+"sortera (-r, -de, -t)",sortieren,1_4,sortera,0
+"säga (säger, sade/sa, sagt)",sagen,1_4,säga,0
+"mening (-en, -ar, -arna)","Satz; Meinung, Ansicht",1_4,mening,0
+"alfabet (-et, =, -en) ",Alphabet,1_5,alfabet,0
+"efternamn (-et, =, -en) ",Nachname,1_5,efternamn,0
+"stava (-r, -de, -t) ",schreiben (im Sinn von buchstabieren),1_5,stava,0
+tyska (-n),Deutsch,1_5,tyska,0
+Schweiz,Schweiz,1_5,Schweiz,0
+Hur mår du?,Wie geht es dir?,2_1,Hur mar du?,0
+hur,wie,2_1,hur,0
+"må (-r, -dde, -tt)",sich fühlen ,2_1,ma,0
+bara,nur,2_1,bara,0
+tack ,danke,2_1,tack,0
+Jo tack.,"Ja (doch), danke.",2_1,Jo tack.,0
+jo,"doch, gewiss",2_1,jo,0
+Det är bra. ,Mir geht es gut. (wörtlich: Es ist gut.),2_1,Det är bra.,0
+Tjena!,Hi!,2_1,Tjena!,0
+Hur är läget?,Was läuft? (wörtlich: Wie ist die Lage?),2_1,Hur är läget?,0
+"läge (-t, -n, -na) ",Lage,2_1,läge,0
+Det är lugnt. ,Alles gut./Läuft. (wörtlich: Alles ruhig.),2_1,Det är lugnt.,0
+"lugn (-t, -a) ",ruhig,2_1,lugn,0
+Själv? ,Selbst?,2_1,Själv?,0
+"själv (-t, -a) ","selbst, selber",2_1,själv,0
+kanonbra ,super (wörtlich: kanonengut),2_1,kanonbra,0
+"kanon (-en, -er, -erna)",Kanone,2_1,kanon,0
+Hejsan! ,"Hallo!, Hallöchen!",2_1,Hejsan!,0
+Hur är det? ,Wie geht’s? (wörtlich: Wie ist es?),2_1,Hur är det?,0
+Fint! ,Gut!,2_1,Fint!,0
+Allt väl? ,Alles gut?,2_1,Allt väl?,0
+väl ,wohl,2_1,väl,0
+helt ,ganz,2_1,helt,0
+okej ,"okay, in Ordnung",2_1,okej,0
+för mycket ,zu viel,2_1,för mycket,0
+jodå (auch: jo då),ja doch,2_1,joda,0
+som vanligt ,wie immer,2_1,som vanligt,0
+"vanlig (-t, -a) ",gewöhnlich,2_1,vanlig,0
+Tja!,Hi!,2_1,Tja!,0
+så där ,"geht so, soso lala",2_1,sa där,0
+dig (objektspronomen),"dir, dich (Objektpronomen)",2_1,dig,0
+nja ,naja,2_1,nja,0
+Hur står det till? ,Wie geht es?,2_1,Hur star det till?,0
+ganska ,ziemlich,2_1,ganska,0
+"dålig (-t, -a) ",schlecht,2_1,dalig,0
+faktiskt ,"ehrlich gesagt, in der Tat, tatsächlich",2_1,faktiskt,0
+förkyld,erkältet,2_1,förkyld,0
+så ,so,2_1,sa,0
+"trött (=, -a)",müde,2_1,trött,0
+God morgon! ,Guten Morgen! ,2_1,God morgon!,0
+"god (gott, -a) ",gut,2_1,god,0
+"morgon (-en, morgnar, morgnarna)",Morgen,2_1,morgon,0
+jätte[trött] ,"sehr [müde], super[müde]",2_1,jätte[trött],0
+Oj då! ,Oje!/O weh!,2_1,Oj da!,0
+"dricka (dricker, drack, druckit)  ",trinken,2_1,dricka,0
+"hälsa (-r, -de, -t) ",grüssen,2_1,hälsa,0
+Hej hej!,"Hallo, hallo!; als Verabschiedung: Tschüss, Tschüss!",2_1,Hej hej!,0
+Hallå!,Hallo!,2_1,Halla!,0
+God dag. ,Guten Tag.,2_1,God dag.,0
+"dag (-en, -ar, -arna) ",Tag,2_1,dag,0
+för (konjunktion),denn (Konjunktion),2_2,för,0
+"intresserad (intresserat, intresserade) av",interessiert an ,2_2,intresserad av,0
+"jobba (-r, -de, -t) som [journalist]",arbeiten als [Journalist/in],2_2,jobba som [journalist],0
+"journalist (-en, -er, -erna) ",Journalist/in,2_2,journalist,0
+"skriva (skriver, skrev, skrivit) för ngn/ngt",für jmdn./etw. schreiben,2_2,skriva för ngn/ngt,0
+"thailändsk (-t, -a)",thailändisch,2_2,thailändsk,0
+"tidning (-en, -ar, -arna) ",Zeitung,2_2,tidning,0
+på nätet,im Netz (Internet),2_2,pa nätet,0
+"nät (-et, =, -en) ",Netz,2_2,nät,0
+Norden ,Nordeuropa,2_2,Norden,0
+"trivas (trivs, trivdes, trivts) ",sich wohlfühlen,2_2,trivas,0
+"längta (-r, -de, -t) efter ngn/ngt",sich sehnen nach jmdm./etw.,2_2,längta efter ngn/ngt,0
+"vän (-nen, -ner, -nerna) ",Freund,2_2,vän,0
+Thailand ,Thailand,2_2,Thailand,0
+ofta ,oft,2_2,ofta,0
+"prata (-r, -de, -t) på Skype",skypen (wörtlich: auf Skype reden),2_2,prata pa Skype,0
+"prata (-r, -de, -t) i telefon",telefonieren,2_2,prata i telefon,0
+"telefon (-en, -er, -erna) ",Telefon,2_2,telefon,0
+"IT-ingenjör (-en, -er, -erna) ",IT-Ingenieur/in,2_2,IT-ingenjör,0
+"spelföretag (-et, =, -en) ",Spieleunternehmen,2_2,spelföretag,0
+"spel (-et, =, -en) ",Spiel,2_2,spel,0
+"företag (-et, =, -en) ",Unternehmen,2_2,företag,0
+i stan,in der Stadt,2_2,i stan,0
+"stad (-en, städer, städerna)",Stadt,2_2,stad,0
+på jobbet,auf der Arbeit,2_2,pa jobbet,0
+"katt (-en, -er, -erna) ",Katze,2_2,katt,0
+"sol (-en, -ar, -arna) ",Sonne,2_2,sol,0
+ibland ,manchmal,2_2,ibland,0
+"mamma (-n, -or, -orna) ",Mama,2_2,mamma,0
+"pappa (-n, -or, -orna) ",Papa,2_2,pappa,0
+till [Sverige],nach [Schweden],2_2,till [Sverige],0
+"vecka (-n, -or, -orna) ",Woche,2_2,vecka,0
+i sommar ,diesen Sommer,2_2,i sommar,0
+"sommar (-en, somrar, somrarna) ",Sommer,2_2,sommar,0
+"bli (blir, blev, blivit) ",werden,2_2,bli,0
+"rolig (-t, -a) ","schön, lustig, erfreulich",2_2,rolig,0
+"deckare (-n, =, deckarna) ",Krimi,2_2,deckare,0
+"jazz (-en, -) ",Jazz,2_2,jazz,0
+hemma,zu Hause,2_2,hemma,0
+"fest (-en, -er, -erna) ","Fest, Party",2_3,fest,0
+"klasskompis (-en, -ar, -arna)  ",Klassenkamerad/in,2_3,klasskompis,0
+"välkommen (välkommet, välkomna)  ",willkommen,2_3,välkommen,0
+Det här är [min flickvän].,Dies ist [meine Freundin].,2_3,Det här är [min flickvän].,0
+Vad trevligt!,Freut mich! (Wörtlich: Wie nett!),2_3,Vad trevligt!,0
+Trevligt att träffas!,"Freut mich, dich/euch kennenzulernen.",2_3,Trevligt att träffas!,0
+"trevlig (-t, -a) ","nett, angenehm, gemütlich",2_3,trevlig,0
+att (infinitivmärket),zu (Infinitivzusatz),2_3,att,0
+"träffas (träffas, träffades, träffats) ",sich treffen,2_3,träffas,0
+"fin (-t, -a) ","schön, fein",2_3,fin,0
+"lägenhet (-en, -er, -erna) ",Wohnung,2_3,lägenhet,0
+Kom in! ,Komm/Kommt herein! ,2_3,Kom in!,0
+precis ,genau,2_3,precis,0
+förlåt,Verzeihung,2_3,förlat,0
+"förstå (förstår, förstod, förstått) ",verstehen,2_3,första,0
+"webbtidning (-en, -ar, -arna) ",Webzeitung,2_3,webbtidning,0
+thai (unveränderlich),Thai(ländisch),2_3,thai,0
+"artikel (-n, artiklar, artiklarna) [om]",Artikel [über],2_3,artikel [om],0
+"mat (-en, -) ",Essen,2_3,mat,0
+"skola (ska, skulle, skolat)","werden, wollen, sollen",2_3,skola,0
+"gå (går, gick, gått) ",gehen,2_3,ga,0
+Det var roligt att träffas.,"Es hat mich gefreut, dich/euch kennenzulernen.",2_3,Det var roligt att träffas.,0
+Tack detsamma.,Danke gleichfalls.,2_3,Tack detsamma.,0
+Vi ses! ,Wir sehen uns!/Bis bald!,2_3,Vi ses!,0
+"ses (ses, sågs, setts) ",sich sehen,2_3,ses,0
+"se (ser, såg, sett)",sehen,2_3,se,0
+Just det. ,Genau.,2_3,Just det.,0
+Ha det så bra! ,Mach's gut!,2_3,Ha det sa bra!,0
+Du med! ,Du auch!,2_3,Du med!,0
+Hej då!  ,Tschüss!,2_3,Hej da!,0
+"fras (-en, -er, -erna)",Phrase,2_3,fras,0
+"komplettera (-r, -de, -t)","komplettieren, vervollständigen, ergänzen",2_3,komplettera,0
+Grekland,Griechenland,2_3,Grekland,0
+"frågeord (-et, =, -en)",Fragewort,2_3,frageord,0
+varför  ,warum,2_3,varför,0
+Kina,China,2_3,Kina,0
+i väskan,in der/in die Tasche,2_4,i väskan,0
+"väska (-n, -or, -orna)  ",Tasche,2_4,väska,0
+"folk (-et, =, -en)","Leute, Menschen; Volk",2_4,folk,0
+på stan,in der Stadt; in die Stadt,2_4,pa stan,0
+tja ,"naja, tja",2_4,tja,0
+"mobiltelefon (-en, -er, -erna) ",Handy,2_4,mobiltelefon,0
+"tuggummipaket (-et, =, -en)  ",Kaugummipackung,2_4,tuggummipaket,0
+"tuggummi (-t, -n, -na) ",Kaugummi,2_4,tuggummi,0
+"paket (-et, =, -en) ",Packung,2_4,paket,0
+"läsplatta (-n, -or, -orna)",E-Book-Reader (wörtlich: Leseplatte),2_4,läsplatta,0
+"kam (-men, -mar, -marna) ",Kamm,2_4,kam,0
+"ordbok (-en, ordböcker, ordböckerna) ",Wörterbuch,2_4,ordbok,0
+"cerat (-et, =, -en) ","Lippenpomade, Fettstift",2_4,cerat,0
+"mössa (-n, -or, -orna) ",Mütze,2_4,mössa,0
+"suddgummi (-t, -n, -na) ",Radiergummi,2_4,suddgummi,0
+Tack så mycket.,Vielen Dank.,2_4,Tack sa mycket.,0
+Det var så lite. ,Gern geschehen. (wörtlich: Es war so wenig.),2_4,Det var sa lite.,0
+"lista (-n, -or, -orna)",Liste,2_4,lista,0
+"bussbiljett (-en, -er, -erna)  ",Busfahrkarte,2_4,bussbiljett,0
+"läppglans (-et, -) ",Lipgloss,2_4,läppglans,0
+"banan (-en, -er, -erna) ",Banane,2_4,banan,0
+en flaska vatten ,eine Flasche Wasser,2_4,en flaska vatten,0
+"flaska (-n, -or, -orna) ",Flasche,2_4,flaska,0
+"läsk (-en, =, -en)","Softdrink, Limo",2_4,läsk,0
+pengar (-na) ,Geld,2_4,pengar,0
+"nyckel (-n, nycklar, nycklarna)  ",Schlüssel,2_4,nyckel,0
+"tröja (-n, -or, -orna) ","Pullover, T-Shirt",2_4,tröja,0
+ett par skor ,ein paar Schuhe,2_4,ett par skor,0
+"sko (-n, -r, -rna) ",Schuh,2_4,sko,0
+"necessär (-en, -er, -erna) ","Necessaire, Kulturbeutel",2_4,necessär,0
+"dator (-n, -er, -erna) ",Computer,2_4,dator,0
+"pass (-et, =, -en) ",Pass,2_4,pass,0
+"räkna (-r, -de, -t) ","zählen, rechnen",3_1,räkna,0
+"siffra (-n, -or, -orna) ",Ziffer,3_1,siffra,0
+"plats (-en, -er, -erna)  ",Platz,3_1,plats,0
+"lyssna (-r, -de, -t) på",zuhören,3_1,lyssna pa,0
+man (indefinit pronomen),man (Indefinitpronomen),3_1,man,0
+"uttala (-r, -de, -t)",aussprechen,3_1,uttala,0
+"markera (-r, -de, -t)",markieren,3_1,markera,0
+"ljud (-et, =, -en)  ",Laut,3_1,ljud,0
+kanske,vielleicht,3_1,kanske,0
+"lyssna (-r, -de, -t)",hören,3_1,lyssna,0
+"vilken (vilket, vilka)","welche, welcher, welches",3_2,vilken,0
+"gata (-n, -or, -orna) ",Strasse,3_2,gata,0
+på [Linnégatan],an der [Linnéstrasse],3_2,pa [Linnégatan],0
+där,dort,3_2,där,0
+"nummer (numret, =, numren)  ",Nummer,3_2,nummer,0
+hur många ,wie viele,3_2,hur manga,0
+många,viele,3_2,manga,0
+"telefonnummer (-numret, =, -numren) ",Telefonnummer,3_2,telefonnummer,0
+"ringa (-er, -de, -t) ",anrufen,3_2,ringa,0
+imorgon ,morgen,3_2,imorgon,0
+när  ,wann,3_2,när,0
+"född (fött, -a)",geboren,3_2,född,0
+som (konjunktion),wie; als (Konjunktion),3_2,som,0
+"lillasyster (-n, småsystrar, småsystrarna) ",kleine Schwester,3_2,lillasyster,0
+"morfar (morfadern, morfäder, morfäderna)",Grossvater mütterlicherseits,3_2,morfar,0
+"gammal (-t, gamla) ",alt,3_2,gammal,0
+Ojojoj!,Uiuiui!,3_2,Ojojoj!,0
+mycket ,sehr (Adverb); viel (Adjektiv),3_2,mycket,0
+jamen ,ja aber,3_2,jamen,0
+faktiskt inte ,auch wieder nicht,3_2,faktiskt inte,0
+Jag fyller 83 i år.,Ich werde dieses Jahr 83.,3_2,Jag fyller 83 i ar.,0
+"fylla (-er, -de, -t) år",Geburtstag haben (wörtlich: das Jahr füllen),3_2,fylla ar,0
+"fylla (-er, -de, -t)",füllen,3_2,fylla,0
+i år,dieses Jahr,3_2,i ar,0
+hur mycket,wie viel,3_2,hur mycket,0
+ungefär ,ungefähr,3_2,ungefär,0
+Vad mycket!  ,Wie viel!,3_2,Vad mycket!,0
+"tal (-et, =, -en) ",Zahl,3_2,tal,0
+Hur mycket är klockan?,Wie spät ist es? (Wörtlich: Wie viel ist die Uhr?),3_3,Hur mycket är klockan?,0
+"klocka (-n, -or, -orna) ",Uhr,3_3,klocka,0
+Hon är ...,Es ist ... (Uhrzeit),3_3,Hon är ...,0
+halv [sju],halb [sieben],3_3,halv [sju],0
+Vad är klockan?,Wie spät ist es? (Wörtlich: Was ist die Uhr?),3_3,Vad är klockan?,0
+Den är ...,Es ist ... (Uhrzeit),3_3,Den är ...,0
+[fem] över [sju],[fünf] nach [sieben],3_3,[fem] över [sju],0
+Har du en klocka?,Hast du eine Uhr?,3_3,Har du en klocka?,0
+kvart i [sju],viertel vor [sieben],3_3,kvart i [sju],0
+redan,"bereits, schon",3_3,redan,0
+"veta (vet, visste, vetat)",wissen,3_3,veta,0
+prick [sju],Punkt [sieben],3_3,prick [sju],0
+"sekund (-en, -er, -erna) ",Sekunde,3_3,sekund,0
+"minut (-en, -er, -erna) ",Minute,3_3,minut,0
+"kvart (-en, -ar, -arna)",Viertel,3_3,kvart,0
+"halvtimme (-n, halvtimmar, halvtimmarna)",halbe Stunde ,3_3,halvtimme,0
+"timme (-n, timmar, timmarna)  ",Stunde,3_3,timme,0
+"fråga (-r, -de, -t) ngn om ngt",jmdn. nach etw. fragen,3_3,fraga ngn om ngt,0
+"tid (-en, -er, -erna) ",Zeit,3_3,tid,0
+"fika (-t, -)","Kaffeepause, Kaffeetrinken",3_3,fika,0
+"program (-met, =, -men) ",Programm,3_3,program,0
+för,für,3_3,för,0
+"konferens (-en, -er, -erna) ",Tagung,3_3,konferens,0
+självklart ,selbstverständlich,3_3,självklart,0
+Kanon! ,Super! (wörtlich: Kanone!),3_3,Kanon!,0
+vilken tid ,um welche Zeit,3_3,vilken tid,0
+"börja (-r, -de, -t) ","anfangen, beginnen",3_3,börja,0
+klockan [nio],um [neun] Uhr,3_3,klockan [nio],0
+hur dags ,wann,3_3,hur dags,0
+"äta (äter, åt, ätit) ",essen,3_3,äta,0
+"lunch (-en, -er, -erna) ",Mittagessen,3_3,lunch,0
+"tro (-r, -dde, -tt)",glauben,3_3,tro,0
+"fikapaus (-en, -er, -erna)",Kaffeepause,3_3,fikapaus,0
+sista ,"letzter, letzte, letztes",3_3,sista,0
+"fråga (-n, -or, -orna)",Frage,3_3,fraga,0
+"sluta (-r, -de, -t) ","enden, aufhören",3_3,sluta,0
+vid [fem] ,um [fünf] ,3_3,vid [fem],0
+"titta (-r, -de, -t)",schauen,3_4,titta,0
+i texten,im Text,3_4,i texten,0
+nedanför,"unten, unterhalb",3_4,nedanför,0
+"aktivitet (-en, -er, -erna) ",Aktivität,3_4,aktivitet,0
+"vakna (-r, -de, -t) ",aufwachen,3_4,vakna,0
+"stiga (stiger, steg, stigit) upp ",aufstehen,3_4,stiga upp,0
+"frukost (-en, -ar, -arna) ",Frühstück,3_4,frukost,0
+"ta (tar, tog, tagit) ",nehmen,3_4,ta,0
+"taxi (-n, taxibilar, taxibilarna) ",Taxi,3_4,taxi,0
+"dansa (-r, -de, -t) ",tanzen,3_4,dansa,0
+"väninna (-n, -or, -orna) ",Freundin,3_4,väninna,0
+"röka (-er, -te, -t) ",rauchen,3_4,röka,0
+"promenera (-r, -de, -t) ",spazieren,3_4,promenera,0
+"mejl (-et, =, -en)",E-Mail,3_4,mejl,0
+"städa (-r, -de, -t) ","putzen, aufräumen",3_4,städa,0
+"ta (tar, tog, tagit) en tupplur",ein Nickerchen machen (wörtlich: nehmen),3_4,ta en tupplur,0
+"tupplur (-en, -ar, -arna)  ",Nickerchen,3_4,tupplur,0
+"laga (-r, -de, -t) mat ","kochen (im Sinn von ""Essen zubereiten"")",3_4,laga mat,0
+"middag (-en, -ar, -arna) ",Abendessen,3_4,middag,0
+"diska (-r, -de, -t) ",abwaschen,3_4,diska,0
+"spela (-r, -de, -t) ",spielen,3_4,spela,0
+"gitarr (-en, -er, -erna) ",Gitarre,3_4,gitarr,0
+"lyssna (-r, -de, -t) på [radio]",[Radio] hören,3_4,lyssna pa [radio],0
+"radio (-n, -apparater, -apparaterna) ",Radio,3_4,radio,0
+"surfa (-r, -de, -t) på Internet",im Internet surfen,3_4,surfa pa Internet,0
+"titta (-r, -de, -t) på [teve]",[Fernseh] schauen,3_4,titta pa [teve],0
+"teve (-n, -apparater, -apparaterna) ",Fernseher,3_4,teve,0
+"vin (-et, -er, -erna) ",Wein,3_4,vin,0
+"chatta (-r, -de, -t) ",chatten,3_4,chatta,0
+"gå (går, gick, gått) och lägga (lägger, la/lade, lagt) sig ",ins Bett gehen,3_4,ga sig,0
+"lägga (lägger, la/lade, lagt) ",legen,3_4,lägga,0
+"somna (-r, -de, -t) ",einschlafen,3_4,somna,0
+"jämföra (jämför, -de, -t) ",vergleichen,3_4,jämföra,0
+"kontrollera (-r, -de, -t)",kontrollieren,3_4,kontrollera,0
+"aktiv (-t, -a) ",aktiv,3_4,aktiv,0
+alltid ,immer,3_4,alltid,0
+direkt ,sofort,3_4,direkt,0
+efter,nach,3_4,efter,0
+"ta (tar, tog, tagit) bussen [till]",den Bus nehmen [nach],3_4,ta bussen [till],0
+"buss (-en, -ar, -arna) ",Bus,3_4,buss,0
+"danskurs (-en, -er, -erna) ",Tanzkurs,3_4,danskurs,0
+mellan ,zwischen,3_4,mellan,0
+lindy hop ,Lindy Hop,3_4,lindy hop,0
+"älska (-r, -de, -t) ",lieben,3_4,älska,0
+"dans (-en, -er, -erna) ",Tanz,3_4,dans,0
+"hungrig (-t, -a) ",hungrig,3_4,hungrig,0
+förstås ,natürlich,3_4,förstas,0
+"liten (litet, små) ",klein,3_4,liten,0
+idag ,heute,3_4,idag,0
+"stor (-t, -a) ",gross,3_4,stor,0
+"biff (-en, -ar, -arna) ","Beefsteak, Hacksteak",3_4,biff,0
+pommes frites ,Pommes frites,3_4,pommes frites,0
+"bearnaisesås (-en, -er, -erna) ",Sauce béarnaise,3_4,bearnaisesas,0
+"sås (-en, -er, -erna) ",Sauce,3_4,sas,0
+hem ,nach Hause,3_4,hem,0
+det tar [en timme],es/das dauert [eine Stunde],3_4,det tar [en timme],0
+nästan ,"fast, beinahe, nahezu",3_4,nästan,0
+på eftermiddagen ,am Nachmittag,3_4,pa eftermiddagen,0
+"eftermiddag (-en, -ar, -arna) ",Nachmittag,3_4,eftermiddag,0
+"skriva (skriver, skrev, skrivit) till ngn",an jmdn. schreiben,3_4,skriva till ngn,0
+"berätta (-r, -de, -t) om",erzählen von/über,3_4,berätta om,0
+"liv (-et, =, -en) ",Leben,3_4,liv,0
+sedan,"dann, danach",3_4,sedan,0
+i soffan,auf dem/auf das Sofa (wörtlich: im Sofa),3_4,i soffan,0
+"soffa (-n, -or, -orna) ",Sofa,3_4,soffa,0
+"piano (-t, -n, -na) ",Klavier,3_4,piano,0
+"present (-en, -er, -erna) ",Geschenk,3_4,present,0
+"favoritprogram (-met, =, -men)  ",Lieblingssendung,3_4,favoritprogram,0
+"musik (-en, -)  ",Musik,3_4,musik,0
+"fråga (-n, -or, -orna) om ngt",Frage über/zu etw.,3_4,fraga om ngt,0
+bredvid,"daneben, nebenan",3_4,bredvid,0
+"byta (byter, bytte, bytt)","tauschen, wechseln, umtauschen",3_4,byta,0
+"roll (-en, -er, -erna)",Rolle,3_4,roll,0
+i rutan,im Kasten,3_4,i rutan,0
+"ruta (-n, -or, -orna)","Viereck, Feld, Kasten",3_4,ruta,0
+på morgonen,am Morgen,3_4,pa morgonen,0
+på kvällen ,am Abend,3_4,pa kvällen,0
+"kväll (-en, -ar, -arna)  ",Abend,3_4,kväll,0
+"skola (-n, -or, -orna)  ",Schule,3_4,skola,0
+"titta (-r, -de, -t) på ngt","etw. anschauen, ansehen",3_5,titta pa ngt,0
+"älg (-en, -ar, -arna) ",Elch,3_5,älg,0
+Åh!,Oh!,3_5,Åh!,0
+Vad fin!,Wie schön!,3_5,Vad fin!,0
+"sätta (sätter, satte, satt) på [teven]",[den Fernseher] einschalten,3_5,sätta pa [teven],0
+"film (-en, -er, -erna) ",Film,3_5,film,0
+God natt! ,Gute Nacht!,3_5,God natt!,0
+"natt (-en, nätter, nätterna)",Nacht,3_5,natt,0
+Sov gott!,Schlaf gut!/Schlaft gut!,3_5,Sov gott!,0
+"sova (sover, sov, sovit) ",schlafen,3_5,sova,0
+"köpcentrum (köpcentret, =, köpcentren) ",Einkaufszentrum,3_5,köpcentrum,0
+rakt fram ,geradeaus,3_5,rakt fram,0
+på höger sida (av gatan),auf der rechten Seite (der Strasse),3_5,pa höger sida,0
+höger  ,rechts,3_5,höger,0
+"sida (-n, -or, -orna)",Seite,3_5,sida,0
+måste (Präsens und Präteritum),müssen (Präsens und Präteritum),4_1,maste,0
+"köpa (-er, -te, -t) ",kaufen,4_1,köpa,0
+"närbutik (-en, -er, -erna) ",Quartierladen,4_1,närbutik,0
+"butik (-en, -er, -erna)","Laden, Geschäft",4_1,butik,0
+"kontantkort (-et, =, -en) ",Prepaidkarte,4_1,kontantkort,0
+kontant,bar,4_1,kontant,0
+"kort (-et, =, -en)",Karte,4_1,kort,0
+"näsduk (-en, -ar, -arna) ","Nastuch, Taschentuch",4_1,näsduk,0
+"följa (-er, -de, -t) med ",mitkommen,4_1,följa med,0
+"snus (-et, -er, -erna) ",eine Art Lutschtabak,4_1,snus,0
+"vilja (vill, ville, velat) ",wollen,4_1,vilja,0
+"kebabställe (-t, -n, -na) ",Kebabstand,4_1,kebabställe,0
+gärna ,gerne,4_1,gärna,0
+"fika (-r, -de, -t)","Kaffee trinken, ""käfele""",4_1,fika,0
+"kompis (-en, -ar, -arna) ","Kollege/Kollegin, Kumpel",4_1,kompis,0
+"komma (kommer, kom, kommit) med",mitkommen,4_1,komma med,0
+tyvärr ,leider,4_1,tyvärr,0
+"farfar (farfadern, farfäder, farfäderna)",Grossvater väterlicherseits,4_1,farfar,0
+"annan (annat, andra)","andere, anderer, anderes",4_1,annan,0
+"hjälpverb (-et, =, -en)",Hilfsverb,4_1,hjälpverb,0
+"din (ditt, -a) (possessivt pronomen)","dein, deine (Possessivpronomen)",4_1,din,0
+"partner (-n, =, -na)",Partner/in,4_1,partner,0
+"muntlig (-t, -a)",mündlich,4_1,muntlig,0
+"övning (-en, -ar, -arna)",Übung,4_1,övning,0
+"berätta (-r, -de, -t) ngt för ngn",jmdm. etw. erzählen,4_1,berätta ngt för ngn,0
+i närbutiken,im Quartierladen,4_1,i närbutiken,0
+"Ja, tack! Nästa! (auch: Ja tack, nästa?)","Der/die nächste, bitte!",4_1,"Ja, tack! Nästa!",0
+nästa ,"nächster, nächste, nächstes",4_1,nästa,0
+Jag skulle vilja ha ...,Ich hätte gerne ...,4_1,Jag skulle vilja ha ...,0
+den/det här (demonstrativt pronomen),"der/die/das hier, dieser/diese/dieses (Demonstrativpronomen)",4_1,den/det här,0
+"kosta (-r, -de, -t) ",kosten,4_1,kosta,0
+"krona (-n, -or, -orna) ",Krone,4_1,krona,0
+Något annat/mer? ,Noch etwas?,4_1,Nagot annat/mer?,0
+något (indefinit pronomen),etwas (Indefinitpronomen),4_1,nagot,0
+Javisst! ,Ja klar!/Aber ja!/Natürlich!,4_1,Javisst!,0
+då,"da, dann; damals",4_1,da,0
+"få (får, fick, fått)",bekommen (als Vollverb); dürfen (als Hilfsverb),4_1,fa,0
+mer ,mehr,4_1,mer,0
+"Nej, tack. ",Nein danke.,4_1,"Nej, tack.",0
+Det var bra så.,Das ist alles. (wörtlich: Das war gut so.),4_1,Det var bra sa.,0
+Det blir ... kronor.,Das macht ... Kronen.,4_1,Det blir ... kronor.,0
+Tar ni kort? ,Kann ich mit Karte bezahlen? (wörtlich: Nehmt ihr Karten?),4_1,Tar ni kort?,0
+absolut,"absolut, unbedingt",4_1,absolut,0
+"sätta (sätter, satte, satt) in","einsetzen, hineinstellen, einführen",4_1,sätta in,0
+"slå (slår, slog, slagit) koden ",den PIN-Code eingeben,4_1,sla koden,0
+"slå (slår, slog, slagit)",schlagen,4_1,sla,0
+"kod (-en, -er, -erna) ","PIN-Code, Kode",4_1,kod,0
+"ingen (inget, inga) (indefinit pronomen)","kein, keiner, keines, keine (Indefinitpronomen)",4_1,ingen,0
+"namnteckning (-en, -ar, -arna) ",Unterschrift,4_1,namnteckning,0
+"leg (-et, =, -en) (Abkürzung von legitimation) ",Ausweis (ugs.),4_1,leg,0
+"legitimation (-en, -er, -erna)",Ausweis,4_1,legitimation,0
+"kvitto (-t, -n, -na) ",Quittung,4_1,kvitto,0
+"Ja, tack.",Ja gerne.,4_1,"Ja, tack.",0
+på kebabrestaurangen,im Kebabrestaurant,4_1,pa kebabrestaurangen,0
+"En/ett ..., tack.","Einen/eine/ein ..., bitte.",4_1,"En/ett ..., tack.",0
+"falafelmeny (-n, -er, -erna) ",Falafelmenü,4_1,falafelmeny,0
+"meny (-n, -er, -erna) ",Menü,4_1,meny,0
+Vill du äta här eller ta med?,Zum hier Essen oder zum Mitnehmen?,4_1,Vill du äta här eller ta med?,0
+"ta (tar, tog, tagit) med",mitnehmen,4_1,ta med,0
+"mellanläsk (-en, =, -en) ",mittelgrosser Softdrink,4_1,mellanläsk,0
+Var det bra så? ,Ist das alles?,4_1,Var det bra sa?,0
+Vänta lite!,Einen Augenblick! (wörtlich: Warte/Wartet kurz!),4_1,Vänta lite!,0
+"tjuga (-n, -or, -orna)","Zwanziger (20 Kronen-Note, ugs.)",4_1,tjuga,0
+"tjugolapp (-en, -ar, -arna)",20 Kronen-Note,4_1,tjugolapp,0
+på kaféet,im Café,4_1,pa kaféet,0
+"kafé (-et, -er, -erna)","Café, Kaffeehaus",4_1,kafé,0
+"latte (-n, -)",[Kaffee] Latte,4_1,latte,0
+den/det där (demonstrativt pronomen),"der/die/das dort, jener/jene/jenes (Demonstrativpronomen)",4_1,den/det där,0
+"bulle (-n, bullar, bullarna)","Hefestück, Hefegebäck",4_1,bulle,0
+"lyxbulle (-n, lyxbullar, lyxbullarna)  ","""Luxushefegebäck""",4_1,lyxbulle,0
+"lyx (-en, -)",Luxus,4_1,lyx,0
+"varsågod (sg.), varsågoda (pl.)","bitteschön, voilà",4_1,varsagod,0
+strax  ,"gleich, sofort",4_1,strax,0
+"prislista (-n, -or, -orna) ",Preisliste,4_1,prislista,0
+nedan ,unten,4_1,nedan,0
+i kiosken,im/am Kiosk,4_1,i kiosken,0
+"kiosk (-en, -er, -erna) ",Kiosk,4_1,kiosk,0
+"apelsin (-en, -er, -erna) ",Orange,4_1,apelsin,0
+"dosa (-n, -or, -orna) ",Dose,4_1,dosa,0
+"glass (-en, -ar, -arna) ",Eis,4_1,glass,0
+"godispåse (-n, godispåsar, godispåsarna) ",Tüte Süssigkeiten,4_1,godispase,0
+"godis (-et, -)",Süssigkeiten,4_1,godis,0
+"påse (-n, påsar, påsarna)","Tüte, Beutel",4_1,pase,0
+"frimärke (-t, -n, -na) ",Briefmarke,4_1,frimärke,0
+"cigarett (-en, -er, -erna) ",Zigarette,4_1,cigarett,0
+"äpple (-t, -n, -na) ",Apfel,4_1,äpple,0
+"lasagne (-n, -r, -rna) ",Lasagne,4_1,lasagne,0
+"ostsmörgås (-en, -ar, -arna) ",Käsebrot,4_1,ostsmörgas,0
+"ost (-en, -ar, -arna)",Käse,4_1,ost,0
+"smörgås (-en, -ar, -arna)","Butterbrot, belegtes Brot",4_1,smörgas,0
+"pizza (-n, -or, -orna) ",Pizza,4_1,pizza,0
+"räksallad (-en, -er, -erna) ",Garnelensalat,4_1,räksallad,0
+"räka (-n, -or, orna)",Garnele,4_1,räka,0
+"sallad (-en, -er, -erna)",Salat,4_1,sallad,0
+"sushi (-n, -) ",Sushi,4_1,sushi,0
+"thaicurry (-n, -) ",thailändisches Currygericht,4_1,thaicurry,0
+"wrap (-en, -s, -sen) ",Wrap,4_1,wrap,0
+"soppa (-n, -or, -orna)",Suppe,4_1,soppa,0
+"bröd (-et, =, -en) ",Brot,4_1,bröd,0
+"brownie (-n, -s) ",Brownie,4_1,brownie,0
+"chokladboll (-en, -ar- arna) ",Schokobällchen,4_1,chokladboll,0
+"chokladruta (-n, -or, -orna) ",Schokoecke,4_1,chokladruta,0
+"choklad (-en, -er, -erna) ",Schokolade,4_1,choklad,0
+"dammsugare (-n, =, -arna) ",Punschröllchen (wörtlich: Staubsauger),4_1,dammsugare,0
+"morotskaka (-n, -or, -orna) ",Karottenkuchen,4_1,morotskaka,0
+"morot (-en, morötter, morötterna)",Karotten,4_1,morot,0
+"kaka (-n, -or, -orna)","Kuchen, Plätzchen, Gebäck",4_1,kaka,0
+"mazarin (-en, -er, -erna) ",Mandelgebäck,4_1,mazarin,0
+"kopp (-en, -ar, -arna)",Tasse,4_1,kopp,0
+"te (-et, -er, -erna)",Tee,4_1,te,0
+"wienerbröd (-et, =, -en) ","Kopenhagener Gebäck, Plunder",4_1,wienerbröd,0
+"glas (-et, =, -en)",Glas,4_1,glas,0
+"juice (-n, -r, -rna)  ",Saft,4_1,juice,0
+"sälja (säljer, sålde, sålt)",verkaufen,4_1,sälja,0
+på torget,auf dem Markt(platz),4_2,pa torget,0
+"torg (-et, =, -en) ","Markt, Platz, Marktplatz",4_2,torg,0
+"bokstav (-en, bokstäver, bokstäverna)  ",Buchstabe,4_2,bokstav,0
+"paprika (-n, -or, -orna) ",Peperoni,4_2,paprika,0
+"gurka (-n, -or, -orna) ",Gurke,4_2,gurka,0
+"vindruva/druva (-n, -or, -orna)  ",Weintraube/Traube,4_2,vindruva/druva,0
+"purjolök (-en, -ar, -arna)  ",Lauch,4_2,purjolök,0
+"päron (-et, =, -en)  ",Birne,4_2,päron,0
+"kilo (-t, =/-n, -na)",Kilo,4_2,kilo,0
+styck (unveränderlich),Stück,4_2,styck,0
+"chokladkaka (-n, -or, orna)",Tafel Schokolade,4_2,chokladkaka,0
+"persika (-n, -or, -orna)  ",Pfirsich,4_2,persika,0
+"tomat (-en, -er, -erna)",Tomate,4_2,tomat,0
+i mataffären,im Lebensmittelgeschäft,4_3,i mataffären,0
+"mataffär (-en, -er, -erna) ","Lebensmittelgeschäft, Esswarenladen ",4_3,mataffär,0
+"hylla (-n, -or, -orna) ",Regal,4_3,hylla,0
+till vänster,linkerhand; nach links,4_3,till vänster,0
+vänster ,links,4_3,vänster,0
+till höger,rechterhand; nach rechts,4_3,till höger,0
+första  ,erste/r/s,4_3,första,0
+andra ,zweite/r/s,4_3,andra,0
+tredje ,dritte/r/s,4_3,tredje,0
+fjärde ,vierte/r/s,4_3,fjärde,0
+"bageri (-et, -er, -erna) ",Bäckerei,4_3,bageri,0
+"mejeri (-et, -er, -erna)  ",Molkerei,4_3,mejeri,0
+"kött (-et, =, -en)  ",Fleisch,4_3,kött,0
+"hygien (-en, -) ",Hygiene,4_3,hygien,0
+"fisk (-en, -ar, -arna) ",Fisch,4_3,fisk,0
+"skaldjur (-et, =, -en) ",Schalentiere,4_3,skaldjur,0
+"chark (-en, -) ",Fleisch- und Wurstwaren,4_3,chark,0
+"dryck (-en, -er, -erna) ",Getränk,4_3,dryck,0
+"snacks (-en, -)",Snacks,4_3,snacks,0
+"bakprodukt (-en, -er, -erna) ",Backzutat (wörtlich: Backprodukt),4_3,bakprodukt,0
+"baka (-r, -de, -t) ",backen,4_3,baka,0
+Var finns ...?,Wo ist/gibt es ...?,4_3,Var finns ...?,0
+"finnas (finns, fanns, funnits)","sein, existieren, sich befinden",4_3,finnas,0
+"kakao (-n, -)",Kakao,4_3,kakao,0
+"falukorv (-en, -ar, -arna)",schwedische Fleischwurst,4_3,falukorv,0
+"korv (-en, -ar, -arna) ",Wurst,4_3,korv,0
+ursäkta,Entschuldigung,4_3,ursäkta,0
+"turkisk (-t, -a) ",türkisch,4_3,turkisk,0
+"yoghurt (-en, -) ",Joghurt,4_3,yoghurt,0
+förlåt mig ,Verzeihung (wörtlich: verzeih mir),4_3,förlat mig,0
+Kom så ska jag visa!,"Komm, ich zeig's dir!",4_3,Kom sa ska jag visa!,0
+"visa (-r, -de, -t)",zeigen,4_3,visa,0
+"parmesanost (-en, -ar, -arna) ",Parmesankäse,4_3,parmesanost,0
+slut ,"aus, zu Ende, ausverkauft, vergriffen",4_3,slut,0
+"karta (-n, -or, -orna) ",Karte,4_3,karta,0
+över,über,4_3,över,0
+"affär (-en, -er, -erna)","Geschäft, Laden",4_3,affär,0
+(en) karta över [affären],(eine) Karte vom [Geschäft],4_3, karta över [affären],0
+ovanför,"oben, oberhalb",4_3,ovanför,0
+"vara (-n, -or, -orna)",Ware,4_3,vara,0
+"lättöl (-et, =, -en)",Leichtbier (max. 2.25% Alkohol),4_3,lättöl,0
+"lätt (=, -a)",leicht,4_3,lätt,0
+"öl (-et, =, -en)  ",Bier,4_3,öl,0
+fil (-en) ,schwedische Sauermilch,4_3,fil,0
+"köttfärs (-en, -) ",Hackfleisch,4_3,köttfärs,0
+"ostbåge (-n, ostbågar, ostbågarna) ",Käseflip (Chips) (wörtlich: Käsebogen),4_3,ostbage,0
+"tvål (-en, -ar, -arna) ",Seife,4_3,tval,0
+"smör (-et, -) ",Butter,4_3,smör,0
+"mjöl (-et, -) ",Mehl,4_3,mjöl,0
+"sill (-en, -ar, -arna) ",Hering,4_3,sill,0
+"socker (sockret, -) ",Zucker,4_3,socker,0
+"saltlakrits (-en, -) ",Salzlakritze,4_3,saltlakrits,0
+"fläskkotlett (-en, -er, -erna) ",Schweinskotelett,4_3,fläskkotlett,0
+"fläsk (-et, -)",Schweinefleisch,4_3,fläsk,0
+"kotlett (-en, -er, -erna)",Kotelett,4_3,kotlett,0
+"duschkräm (-en, -er, -erna)",Duschgel,4_3,duschkräm,0
+"dusch (-en, -ar, -arna)",Dusche,4_3,dusch,0
+"kräm (-en, -er, -erna)",Creme,4_3,kräm,0
+"förpackning (-en, -ar, -arna) ",Verpackung,4_3,förpackning,0
+"burk (-en, -ar, -arna) ","Dose, Glas",4_3,burk,0
+"tub (-en, -er, -erna) ",Tube,4_3,tub,0
+"ask (-en, -ar, -arna)  ",Schachtel,4_3,ask,0
+"chips (-et, =, -en) ",Chips,4_3,chips,0
+"kaviar (-en, -) ",Kaviar,4_3,kaviar,0
+"ketchup (-en, -) ",Ketchup,4_3,ketchup,0
+"knäckebröd (-et, =, -en) ",Knäckebrot,4_3,knäckebröd,0
+"lingonsylt (-en, -er, -erna) ",Preiselbeerkonfitüre,4_3,lingonsylt,0
+"lingon (-et, =, -en)",Preiselbeere,4_3,lingon,0
+"sylt (-en, -er, -erna)","Konfitüre, Eingemachtes",4_3,sylt,0
+"marmelad (-en, -er, -erna)  ",Marmelade,4_3,marmelad,0
+"mineralvatten (mineralvattnet, -)",Mineralwasser,4_3,mineralvatten,0
+"mjukost (-en, -ar, -arna) ",Weichkäse,4_3,mjukost,0
+"mjölk (-en, -) ",Milch,4_3,mjölk,0
+"olja (-n, -or, -orna) ",Öl,4_3,olja,0
+"schampo (-t, -n, -na) ",Shampoo,4_3,schampo,0
+"tandkräm (-en, -er, -erna) ",Zahnpasta,4_3,tandkräm,0
+"tandpetare (-n, =, tandpetarna)  ",Zahnstocher,4_3,tandpetare,0
+"tändsticka (-n, -or, -orna)  ",Streichholz,4_3,tändsticka,0
+"ärta (-n, -or, -orna)  ",Erbse,4_3,ärta,0
+"experimentteater (-n, -teatrar, -teatrarna)  ",Experimenttheater,5_1,experimentteater,0
+"experiment (-et, =, -en)  ",Experiment,5_1,experiment,0
+"teater (-n, teatrar, teatrarna)  ",Theater,5_1,teater,0
+Vilken dag? ,An welchem Tag?,5_1,Vilken dag?,0
+på tisdag,am Dienstag (Zukunft),5_1,pa tisdag,0
+"tisdag (-en, -ar, -arna) ",Dienstag,5_1,tisdag,0
+Vad synd!,Wie schade!,5_1,Vad synd!,0
+"gå (går, gick, gått) på bio",ins Kino gehen,5_1,ga pa bio,0
+"bio (-n, biografer, biograferna) ",Kino,5_1,bio,0
+på lördag,am Samstag (Zukunft),5_1,pa lördag,0
+"lördag (-en, -ar, -arna) ",Samstag,5_1,lördag,0
+"hänga (-er, -de, -t) med ",mitkommen,5_1,hänga med,0
+"semester (-n, semestrar, semestrarna) ",Ferien,5_1,semester,0
+"helvete (-t, -n, -na) ",Hölle,5_1,helvete,0
+Var går ...? ,Wo läuft ...?,5_1,Var gar ...?,0
+"ta (tar, tog, tagit) ett glas vin",ein Glas Wein trinken (wörtlich: nehmen),5_1,ta ett glas vin,0
+"lust (-en, -ar, -arna) ",Lust,5_1,lust,0
+"gå (går, gick, gått) på hockey",an ein Eishockeyspiel gehen,5_1,ga pa hockey,0
+hockey (-n) ,Hockey,5_1,hockey,0
+mig (objektspronomen),"mir, mich (Objektpronomen)",5_1,mig,0
+på onsdag,am Mittwoch (Zukunft),5_1,pa onsdag,0
+"onsdag (-en, -ar, -arna) ",Mittwoch,5_1,onsdag,0
+mot,"gegen, in Richtung",5_1,mot,0
+Vad skoj!,Super!/Was für ein Spass! (Wörtlich: Wie spassig!),5_1,Vad skoj!,0
+"skoj (-et, =, -en) ",Spass,5_1,skoj,0
+"fixa (-r, -de, -t) biljetter",Tickets besorgen (ugs.),5_1,fixa biljetter,0
+"biljett (-en, -er, -erna) ",Ticket,5_1,biljett,0
+på fredag,am Freitag (Zukunft),5_1,pa fredag,0
+"fredag (-en, -ar, -arna) ",Freitag,5_1,fredag,0
+Hur så? ,Wieso?,5_1,Hur sa?,0
+biljetter till [Stadsteatern],Tickets fürs [Stadttheater],5_1,biljetter till [Stadsteatern],0
+"låta (låter, lät, låtit) ","klingen, tönen",5_1,lata,0
+"pjäs (-en, -er, -erna) ",Theaterstück,5_1,pjäs,0
+"drömspel (-et, =, -en) ",Traumspiel,5_1,drömspel,0
+"dröm (-men, -mar, -marna)",Traum,5_1,dröm,0
+inte precis,nicht gerade,5_1,inte precis,0
+"favorit (-en, -er, -erna) ",Favorit/in,5_1,favorit,0
+i stället  ,stattdessen,5_1,i stället,0
+ikväll ,heute Abend,5_1,ikväll,0
+Vad går där?,Was läuft dort?,5_1,Vad gar där?,0
+"akrobatisk (-t, -a) ",akrobatisch,5_1,akrobatisk,0
+"poesi (-n, -er, -erna) ",Poesie,5_1,poesi,0
+gratis ,"gratis, umsonst",5_1,gratis,0
+"ta (tar, tog, tagit) en öl",ein Bier trinken (wörtlich: nehmen),5_1,ta en öl,0
+varför inte ,warum nicht,5_1,varför inte,0
+"veckodag (-en, -ar, -arna)  ",Wochentag,5_1,veckodag,0
+"måndag (-en, -ar, -arna)",Montag,5_1,mandag,0
+"torsdag (-en, -ar- arna) ",Donnerstag,5_1,torsdag,0
+"söndag (-en, -ar, -arna)  ",Sonntag,5_1,söndag,0
+"diskutera (-r, -de, -t)",diskutieren,5_1,diskutera,0
+"annons (-en, -er, -erna) ",Anzeige,5_1,annons,0
+imorgon kväll,morgen Abend,5_1,imorgon kväll,0
+nästa vecka,nächste Woche,5_1,nästa vecka,0
+"åka (-er, -te, -t) [till]",fahren [nach],5_1,aka [till],0
+på fritiden,in der Freizeit,5_2,pa fritiden,0
+"fritid (-en, -er, -erna)",Freizeit,5_2,fritid,0
+vem,"wer, wen, wem",5_2,vem,0
+"bruka (-r, -de, -t)","pflegen, als Gewohnheit haben",5_2,bruka,0
+"konsert (-en, -er, -erna)  ",Konzert,5_2,konsert,0
+"klassisk (-t, -a)",klassisch,5_2,klassisk,0
+på tisdagar,"dienstags, jeweils am Dienstag",5_2,pa tisdagar,0
+"vattengympa (-n, -)",Wassergymnastik,5_2,vattengympa,0
+"gympa (-n, -)",Gymnastik (ugs.),5_2,gympa,0
+sällan ,selten,5_2,sällan,0
+på datorn,am/auf dem Computer,5_2,pa datorn,0
+på söndagar,"sonntags, jeweils am Sonntag",5_2,pa söndagar,0
+"träna (-r, -de, -t)",trainieren,5_2,träna,0
+"hund (-en, -ar, -arna)",Hund,5_2,hund,0
+"tycka (-er, -te, -t) om att göra ngt",etw. gerne tun,5_2,tycka om att göra ngt,0
+"göra (gör, gjorde, gjort) trick",Tricks machen,5_2,göra trick,0
+"trick (-et, =, -en)",Trick,5_2,trick,0
+i parken,im Park,5_2,i parken,0
+"park (-en, -er, -erna) ",Park,5_2,park,0
+på måndagar,"montags, immer am Montag",5_2,pa mandagar,0
+"sjunga (sjunger, sjöng, sjungit) [i en kör]",[in einem Chor] singen,5_2,sjunga [i en kör],0
+"kör (-en, -er, -erna) ",Chor,5_2,kör,0
+"fantastisk (-t, -a) ",fantastisch,5_2,fantastisk,0
+"gilla (-r, -de, -t)","mögen, gerne haben/tun",5_2,gilla,0
+"asiatisk (-t, -a) ",asiatisch,5_2,asiatisk,0
+i trädgården,im Garten,5_2,i trädgarden,0
+"trädgård (-en, -ar, -arna) ",Garten,5_2,trädgard,0
+"blomma (-n, -or, -orna) ",Blume,5_2,blomma,0
+"auktion (-en, -er, -erna) ","Versteigerung, Auktion",5_2,auktion,0
+på landet ,auf dem Land,5_2,pa landet,0
+"land (-et, länder, länderna)",Land,5_2,land,0
+"tycka (-er, -te, -t) om ngn/ngt","jmdn./etw. gern haben, mögen",5_2,tycka om ngn/ngt,0
+"sak (-en, -er, -erna)","Sache, Ding",5_2,sak,0
+"jaga (-r, -de, -t) ",jagen,5_2,jaga,0
+"fiska (-r, -de, -t) ",fischen,5_2,fiska,0
+"bibliotek (-et, =, -en) ",Bibliothek,5_2,bibliotek,0
+aldrig ,nie,5_2,aldrig,0
+"teveserie (-n, -r, -rna) ",Fernsehserie,5_2,teveserie,0
+"polisserie (-n, -r, -rna) ",Krimiserie,5_2,polisserie,0
+på vintern,jeweils im Winter ,5_2,pa vintern,0
+"vinter (-n, vintrar, vintrarna) ",Winter,5_2,vinter,0
+att (subjunktion),dass (Subjunktion),5_2,att,0
+"gå (går, gick, gått) på yoga",ins Yoga gehen,5_2,ga pa yoga,0
+"yoga (-n, -)",Yoga,5_2,yoga,0
+"intresse (-t, -n, -na)",Interesse,5_2,intresse,0
+"fotboll (-en, -ar, -arna)",Fussball,5_2,fotboll,0
+innebandy (-n) ,Unihockey,5_2,innebandy,0
+"schack (-et, =, -en) ",Schach,5_2,schack,0
+"poker (-n, -) ",Poker,5_2,poker,0
+"trumpet (-en, -er, -erna) ",Trompete,5_2,trumpet,0
+"skida (-n, -or, -orna)  ",Ski,5_2,skida,0
+"skridsko (-n, -r, -rna)  ",Schlittschuh,5_2,skridsko,0
+"skateboard (-en, -ar, -arna) ",Skateboard,5_2,skateboard,0
+"natur (-en, -er, -erna) ",Natur,5_2,natur,0
+"kyrka (-n, -or, -orna)  ",Kirche,5_2,kyrka,0
+"opera (-n, -or, -orna)",Oper,5_2,opera,0
+"museum (museet, museer, museerna) ",Museum,5_2,museum,0
+"gym (-met, =, -men)",Fitnessstudio,5_2,gym,0
+"krog (-en, -ar, -arna)  ",Kneipe,5_2,krog,0
+"klubb (-en, -ar, -arna) ","Klub, Verein",5_2,klubb,0
+"bar (-en, -er, -erna)",Bar,5_2,bar,0
+"bioannons (-en, -er, -erna) ",Kinoprogramm (wörtlich: Kinoanzeige),5_3,bioannons,0
+"härlig (-t, -a) ",herrlich,5_3,härlig,0
+"romantisk (-t, -a)  ",romantisch,5_3,romantisk,0
+"historisk (-t, -a) ",historisch,5_3,historisk,0
+"engelsk (-t, -a) ",englisch,5_3,engelsk,0
+"skräckfilm (-en, -er, -erna) ",Horrorfilm,5_3,skräckfilm,0
+"läskig (-t, -a) ","gruselig, unheimlich",5_3,läskig,0
+"svår (-t, -a) ",schwierig,5_3,svar,0
+"kung (-en, -ar, -arna)",König,5_3,kung,0
+"hemmakväll (-en, -ar, -arna) ",gemütlicher Abend zu Hause,5_3,hemmakväll,0
+i så fall,in dem Fall,5_3,i sa fall,0
+"fotbollsmatch (-en, -er, -erna) ",Fussballspiel,5_3,fotbollsmatch,0
+"fransk (-t, -a)  ",französisch,5_3,fransk,0
+några (indefinit pronomen),einige (Indefinitpronomen),5_3,nagra,0
+"dansk (-t, -a) ",dänisch,5_3,dansk,0
+"tråkig (-t, -a) ",langweilig,5_3,trakig,0
+"sorglig (-t, -a) ",traurig,5_3,sorglig,0
+"intressant (=, -a) ",interessant,5_3,intressant,0
+"tysk (-t, -a) ",deutsch,5_3,tysk,0
+"kinesisk (-t, -a)  ",chinesisch,5_3,kinesisk,0
+"amerikansk (-t, -a) ",amerikanisch,5_3,amerikansk,0
+"indisk (-t, -a)  ",indisch,5_3,indisk,0
+"ny (nytt, -a)",neu,5_3,ny,0
+"japansk (-t, -a) ",japanisch,5_3,japansk,0
+spännande (unveränderlich),spannend,5_3,spännande,0
+"koreansk (-t, -a) ",koreanisch,5_3,koreansk,0
+"någon (något, några) (indefinit pronomen)","(irgend)ein, (irgend)eine, (irgend)einen (Indefinitpronomen)",5_3,nagon,0
+"favoritfilm (-en, -er, -erna)",Lieblingsfilm,5_3,favoritfilm,0
+favorit-,Lieblings-,5_3,favorit-,0
+"skriva (skriver, skrev, skrivit) ner ",aufschreiben,5_3,skriva ner,0
+"nyckelord (-et, =, -en) ",Schlüsselwort,5_3,nyckelord,0
+"actionfilm (-en, -er, -erna) ",Actionfilm,5_3,actionfilm,0
+"komedi (-n, -er, -erna) ",Komödie,5_3,komedi,0
+"dokumentär (-en, -er, -erna) ",Dokumentarfilm,5_3,dokumentär,0
+"science fiction-film (-en, -er, -erna)",Science-Fiction-Film ,5_3,science fiction-film,0
+"drama (-t, dramer, dramerna)  ",Drama,5_3,drama,0
+"thriller (-n, thrillrar, thrillrarna)  ",Thriller,5_3,thriller,0
+"prat (-et, -) [om]","Unterhaltung, Gerede, Geschwätz [über]",5_4,prat [om],0
+"helg (-en, -er, -erna) ",Wochenende,5_4,helg,0
+tillbaka ,zurück,5_4,tillbaka,0
+tillsammans,zusammen,5_4,tillsammans,0
+"kollega (-n, -or, -orna) ",Arbeitskollege/Arbeitskollegin,5_4,kollega,0
+i helgen,"am Wochenende (Vergangenheit, Zukunft)",5_4,i helgen,0
+igår,gestern,5_4,igar,0
+"stanna (-r, -de, -t) ",bleiben; dableiben; anhalten,5_4,stanna,0
+"beställa (-er, -de, -t) ",bestellen,5_4,beställa,0
+framför,vor (örtlich),5_4,framför,0
+"tycka (-er, -te, -t)","meinen, finden",5_4,tycka,0
+"feber (-n, febrar, febrarna) ",Fieber,5_4,feber,0
+så (folgernde Konjunktion),"und deshalb/so (folgernde Konjunktion, ugs.)",5_4,sa,0
+inte direkt,nicht gerade,5_4,inte direkt,0
+"toppenkväll (-en, -ar, -arna) ",Superabend,5_4,toppenkväll,0
+"gå (går, gick, gått) och fika (-r, -de, -t)",Kaffee trinken gehen,5_4,ga,0
+"jogga (-r, -de, -t)  ",joggen,5_4,jogga,0
+"gå (går, gick, gått) ut och äta (äter, åt, ätit)",(auswärts) essen gehen,5_4,ga,0
